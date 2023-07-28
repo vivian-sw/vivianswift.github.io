@@ -21,8 +21,8 @@ During the time, I got interrupted by my friend sometime ha..ha...But,anyway, I 
 
 ### Links
 
-- Solution URL: https://github.com/vivian-sw/vivianswift.github.io.git
-- Live Site URL: https://vivian-sw.github.io/vivianswift.github.io/
+- Solution URL: (https://github.com/vivian-sw/vivianswift.github.io.git)
+- Live Site URL: (https://vivian-sw.github.io/vivianswift.github.io/)
 
 ## My process
 
