@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -61,14 +60,13 @@ I can see that I can use flexbox much better than before. And, I also believe th
 As I have mentiond above, there is a problem when my design is showing on larger screens. It's not in the center vertically.
 
 ## Useful resources
-w3schools to add the favicon.
+w3schools - to add the favicon.
 I have no idea of how to add it. Then, I got solution from that website.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Vivian Swift](https://vivian-sw.github.io/vivianswift.github.io/)
+- Frontend Mentor - [@vivian-sw](https://www.frontendmentor.io/profile/vivian-sw)
+- Twitter - [@VivianSwift22](https://twitter.com/vivianswift22?s=21)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
